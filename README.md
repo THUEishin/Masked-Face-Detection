@@ -1,0 +1,2 @@
+# Masked-Face-Detection
+This is a project of Pattern Recognition course in Tsinghua University: Object detection task of masked face based on YOLO-LITE model. The model trains and infers both on CPU. The default parameters for anchor box are not so good and the mAP@.5 is just 15% for a small dataset, which means the overfitting is severe. You may change the parameters by yourself and train the model for a larger dataset to gain a better performance.
